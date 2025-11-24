@@ -1,0 +1,8 @@
+node_modules/
+dist/
+coverage/
+.sonar/
+.scannerwork/
+*.log
+.DS_Store
+.env
