@@ -6,6 +6,16 @@ Sistema de cálculo de notas finales para UTEC - CS3081
 [![Jest](https://img.shields.io/badge/Jest-29.7-red)](https://jestjs.io/)
 [![License](https://img.shields.io/badge/License-MIT-green)](./LICENSE)
 
+
+
+## Resultados de calidad y análisis SonarQube
+
+### Calidad requerida
+![Calidad requerida](quality.png)
+
+### Resultado del alumno en SonarQube
+![Resultado SonarQube](sonnar.png)
+
 ## 📋 Descripción del Proyecto
 
 CS-GradeCalculator es un sistema modular y robusto diseñado para calcular las notas finales de estudiantes en base a:
